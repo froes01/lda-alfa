@@ -1,0 +1,24 @@
+{
+  "name": "lendas-da-arena",
+  "version": "0.1.1",
+  "description": "Lendas da Arena",
+  "main": "server.js",
+  "scripts": {
+    "prod": "node server.js",
+    "dev": "PORT=3001 node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Balkirprpl/Lendas-da-Arena.git"
+  },
+  "author": "Balkirprpl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Balkirprpl/Lendas-da-Arena/issues"
+  },
+  "homepage": "https://github.com/Balkirprpl/Lendas-da-Arena#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
