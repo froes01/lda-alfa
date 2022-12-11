@@ -19,6 +19,6 @@
   "homepage": "https://github.com/Balkirprpl/Lendas-da-Arena#readme",
   "dependencies": {},
   "devDependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
